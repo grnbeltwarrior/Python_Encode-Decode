@@ -9,6 +9,8 @@ import re
 if len(sys.argv) == 1:
 	print("No arguments passed. Feed me a set of ASCII numbers.")
 	print("Example: ./ascii2char.py '100 102 104 98'")
+	print("OR")
+	print("./ascii2char.py 4C6520666C6167206465206365206368616C6C656E6765206573743A203261633337363438316165353436636436383964356239313237356433323465")
 	exit()
 
 else:
