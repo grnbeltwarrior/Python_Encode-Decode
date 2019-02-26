@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-
+'''
+You can use this to complete the scripting needed for the Cryptopals Set 1: #2 Fixed XOR
+https://cryptopals.com/sets/1/challenges/2
+'''
 import sys
 
 def to_hex(str):
